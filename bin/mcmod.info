@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pc",
+  "name": "Popcorn Mod",
+  "description": "Adds popcorn, to your gamelay! Have fun popping some corn!",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/SamDaSkript/popcorn-source-code-mod/tree/master",
+  "updateUrl": "",
+  "authorList": ["Rayford"],
+  "credits": "Created by Rayford, coded by Rayford!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
