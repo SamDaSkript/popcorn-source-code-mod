@@ -1,4 +1,4 @@
-# popcorn-source-code-mod
+# Popcorn Mod!!!
 Popcorn Mod adds popcorn to minecraft!
 
 For 1.7.10!
